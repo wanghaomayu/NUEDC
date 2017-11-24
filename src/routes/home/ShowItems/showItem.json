@@ -1,0 +1,24 @@
+{
+  "title": "中国大学生电子设计竞赛",
+  "subTitle": "创造激情 精彩无限",
+  "showItems": [
+    {
+      "title": "新闻中心",
+      "content": "新闻中心为您提供最新最全的电子设计竞赛赛况",
+      "img": "/assets/home/showItem/1.jpg",
+      "link": "/news"
+    },
+    {
+      "title": "通知中心",
+      "content": "通知中心给您带来最官方的电子设计竞赛通知",
+      "img": "/assets/home/showItem/2.jpg",
+      "link": "/notices"
+    },
+    {
+      "title": "下载中心",
+      "content": "下载中心包含历年竞赛真题与赛事成绩",
+      "img": "/assets/home/showItem/3.jpg",
+      "link": "/download"
+    }
+  ]
+}

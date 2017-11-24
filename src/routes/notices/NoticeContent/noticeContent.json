@@ -1,0 +1,9 @@
+{
+  "title": "这是第一条新闻",
+  "time": "2017年7月12日",
+  "content": "### 前言：\n\n最近写的一个项目因为js里的隐式类型转换踩了不少的坑，耽误了不少工时，下面就来总结一下js里的隐式类型转换\n\n### 运算符依次登场\n\n#### 一元 +\n\n一元+ 将其操作数转换为Number类型\n\n\n\nlet str = '11'\n\n\n\nlet tem = + str\n\n的结果为Number类型的11\n\n#### 一元 -\n\n一元 - 将其操作数转换为Number类型并反转其正负。\n\n\n\nlet str = '11'\n\n\n\nlet tem = - str\n\n其结果为Number类型的-11（+0产生-0；-0产生+0）\n\n#### 加法运算符（+）\n\n基本规则：\n\n* 某个运算数是 NaN，那么结果为 NaN。\n\n* -Infinity 加 -Infinity，结果为 -Infinity。\n\n* Infinity 加 -Infinity，结果为 NaN。\n\n* +0 加 +0，结果为 +0。\n\n* -0 加 +0，结果为 +0。\n\n* -0 加 -0，结果为 -0。\n\n如果某个运算数是字符串，那么采用下列规则：\n\n如果两个运算数都是字符串，把第二个字符串连接到第一个上。\n\n如果只有一个运算数是字符串，把另一个运算数转换成字符串，结果是两个字符串连接成的字符串。",
+  "prePassage": "第二条新闻",
+  "nextPassage": "第三条新闻",
+  "prePassageId": "1",
+  "nextPassageId": "2"
+}

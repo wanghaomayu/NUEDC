@@ -1,0 +1,122 @@
+{
+  "news": {
+    "name": "news",
+    "title": "近期新闻",
+    "data": [
+      {
+        "title": "X-1",
+        "img": "/assets/product/lock/1.png",
+        "tags": [
+          "新品",
+          "火爆"
+        ],
+        "id": "1"
+      },
+      {
+        "title": "X-2",
+        "img": "/assets/product/lock/2.png",
+        "tags": [
+          "新品",
+          "火爆"
+        ],
+        "id": "2"
+      },
+      {
+        "title": "X-3",
+        "img": "/assets/product/lock/3.png",
+        "tags": [
+          "新品",
+          "火爆"
+        ],
+        "id": "3"
+      },
+      {
+        "title": "X-4",
+        "img": "/assets/product/lock/1.png",
+        "tags": [
+          "新品",
+          "火爆"
+        ],
+        "id": "1"
+      },
+      {
+        "title": "X-5",
+        "img": "/assets/product/lock/2.png",
+        "tags": [
+          "新品",
+          "火爆"
+        ],
+        "id": "2"
+      },
+      {
+        "title": "X-6",
+        "img": "/assets/product/lock/3.png",
+        "tags": [
+          "新品",
+          "火爆"
+        ],
+        "id": "3"
+      }
+    ]
+  },
+  "notices": {
+    "name": "news",
+    "title": "近期通知",
+    "data": [
+      {
+        "title": "X-1",
+        "img": "/assets/product/lock/1.png",
+        "tags": [
+          "新品",
+          "火爆"
+        ],
+        "id": "1"
+      },
+      {
+        "title": "X-2",
+        "img": "/assets/product/lock/2.png",
+        "tags": [
+          "新品",
+          "火爆"
+        ],
+        "id": "2"
+      },
+      {
+        "title": "X-3",
+        "img": "/assets/product/lock/3.png",
+        "tags": [
+          "新品",
+          "火爆"
+        ],
+        "id": "3"
+      },
+      {
+        "title": "X-4",
+        "img": "/assets/product/lock/1.png",
+        "tags": [
+          "新品",
+          "火爆"
+        ],
+        "id": "1"
+      },
+      {
+        "title": "X-5",
+        "img": "/assets/product/lock/2.png",
+        "tags": [
+          "新品",
+          "火爆"
+        ],
+        "id": "2"
+      },
+      {
+        "title": "X-6",
+        "img": "/assets/product/lock/3.png",
+        "tags": [
+          "新品",
+          "火爆"
+        ],
+        "id": "3"
+      }
+    ]
+  }
+}

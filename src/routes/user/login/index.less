@@ -1,0 +1,60 @@
+.login-wrapper {
+  background-size: cover;
+  height: 100vh;
+  margin-top: -64px;
+  .form {
+    //padding: 200px 60px auto auto;
+    position: absolute;
+    right: 60px;
+    top: 200px;
+    width: 360px;
+    height: 340px;
+    padding: 36px 28px;
+    box-shadow: 0 0 100px rgba(0, 0, 0, .08);
+    background-color: rgba(255, 255, 255, 0.7);
+    button {
+      width: 100%;
+    }
+
+    p {
+      color: rgb(204, 204, 204);
+      text-align: center;
+      margin-top: 16px;
+
+      span {
+        &:first-child {
+          margin-right: 16px;
+        }
+      }
+    }
+  }
+
+  .login-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 16px;
+    margin-bottom: 10px;
+    text-align: center;
+    &-main {
+      font-weight: 300;
+      font-size: 26px;
+      margin-bottom: 10px;
+    }
+    &-sub {
+      font-size: 20px;
+    }
+  }
+  .login-footer {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  @media(max-width: 768px) {
+    .form {
+      right: 0;
+      top: 100px;
+      margin: 100px auto;
+    }
+  }
+}

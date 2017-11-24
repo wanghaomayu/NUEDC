@@ -1,0 +1,24 @@
+{
+  "navItem": [
+    {
+      "name": "首页",
+      "href": "/home",
+      "key": "home"
+    },
+    {
+      "name": "新闻中心",
+      "href": "/news",
+      "key": "news"
+    },
+    {
+      "name": "通知中心",
+      "href": "/notices",
+      "key": "notices"
+    },
+    {
+      "name": "下载中心",
+      "href": "/download",
+      "key": "download"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+.joined-teams {
+  &-header {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  &-out {
+    margin: 5px;
+    display: inline-block;
+  }
+  &-check {
+    margin-top: -50px;
+  }
+  &-select {
+    display: flex;
+  }
+  @media (max-width: 1200px) {
+    &-header {
+      flex-direction: column;
+      &-right {
+        margin-top: 10px;
+      }
+    }
+
+  }
+}

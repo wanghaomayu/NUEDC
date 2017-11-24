@@ -1,0 +1,48 @@
+{
+  "showItems": [
+    {
+      "title": "2017年",
+      "link": "ftp://ftp.nuedc.com.cn/2017/"
+    },
+    {
+      "title": "2015年",
+      "link": "ftp://ftp.nuedc.com.cn/2015/"
+    },
+    {
+      "title": "2014年",
+      "link": "ftp://ftp.nuedc.com.cn/2014/"
+    },
+    {
+      "title": "2013年",
+      "link": "ftp://ftp.nuedc.com.cn/2013/"
+    },
+    {
+      "title": "2012年",
+      "link": "ftp://ftp.nuedc.com.cn/2012/"
+    },
+    {
+      "title": "2011年",
+      "link": "ftp://ftp.nuedc.com.cn/2011/"
+    },
+    {
+      "title": "2010年",
+      "link": "ftp://ftp.nuedc.com.cn/2010/"
+    },
+    {
+      "title": "2009年",
+      "link": "ftp://ftp.nuedc.com.cn/2009/"
+    },
+    {
+      "title": "2007年",
+      "link": "ftp://ftp.nuedc.com.cn/2007/"
+    },
+    {
+      "title": "2005年",
+      "link": "ftp://ftp.nuedc.com.cn/2005/"
+    },
+    {
+      "title": "2003年",
+      "link": "ftp://ftp.nuedc.com.cn/2003/"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "title": "这是第一条新闻",
+  "time": "2017年7月12日",
+  "content": "<p >这是一个晴朗的早晨</p>\n<p ><br></p>\n<h1 >惊天我想吃</h1>\n<h1 ><br></h1>\n<p >吃年末</p>",
+  "prePassage": "第二条新闻",
+  "nextPassage": "第三条新闻",
+  "prePassageId": "1",
+  "nextPassageId": "2"
+}

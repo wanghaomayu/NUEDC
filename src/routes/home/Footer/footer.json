@@ -1,0 +1,24 @@
+{
+  "footerItem": [
+    {
+      "title": "联系我们",
+      "content": "河北省秦皇岛市经济技术开发区泰山路143号\n大学生创新创业中心\n联系电话：0335-8068068",
+      "contentLink": ""
+    },
+    {
+      "title": "主办单位",
+      "content": "河北省教育厅",
+      "contentLink": ""
+    },
+    {
+      "title": "承办单位",
+      "content": "东北大学秦皇岛分校",
+      "contentLink": ""
+    },
+    {
+      "title": "友情链接",
+      "content": "全国大学生电子设计竞赛官网\n全国大学生电子设计竞赛 FTP文件下载站\n东北大学秦皇岛分校大学生创新创业中心",
+      "contentLink": "http://www.nuedc.com.cn\nftp://ftp.nuedc.com.cn/2017\nhttp://cxcyzx.neuq.edu.cn/"
+    }
+  ]
+}

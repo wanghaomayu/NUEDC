@@ -1,0 +1,18 @@
+{
+  "banner": [
+    {
+      "title": "锋从砺出 聚势前行",
+      "content": "经销商大会圆满召开！",
+      "time": "2017-07-07",
+      "button": "了解更多",
+      "bg": "/assets/home/banner/1.png"
+    },
+    {
+      "title": "协会认证",
+      "content": "大拇哥连续多年荣获中国质量检验协会认证",
+      "time": "2017-07-07",
+      "button": "了解更多",
+      "bg": "/assets/home/banner/2.png"
+    }
+  ]
+}

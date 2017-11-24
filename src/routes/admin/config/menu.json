@@ -1,0 +1,69 @@
+{
+  "title": "电子设计大赛",
+  "openKeys": [],
+  "defaultSelectedKeys": [],
+  "menus": [
+    {
+      "key": "/admin",
+      "value": "赛事管理",
+      "icon": "clock-circle-o"
+    },
+    {
+      "key": "/admin/problem",
+      "route": "problem",
+      "value": "竞赛题目管理",
+      "icon": "file-unknown"
+    },
+    {
+      "key": "/admin/school",
+      "value": "学校管理",
+      "icon": "home"
+    },
+    {
+      "key": "/admin/schoolAdmin",
+      "route": "schoolAdmin",
+      "value": "学校管理员管理",
+      "icon": "solution"
+    },
+    {
+      "key": "/admin/team",
+      "route": "team",
+      "value": "队伍报名审核",
+      "icon": "team"
+    },
+    {
+      "key": "/admin/recording",
+      "route": "recording",
+      "value": "赛事成绩录入",
+      "icon": "book"
+    },
+    {
+      "key": "/admin/contestRecord",
+      "route": "contestRecord",
+      "value": "所有参赛记录",
+      "icon": "hdd"
+    },
+    {
+      "key": "/admin/news",
+      "value": "新闻管理",
+      "route": "news",
+      "icon": "calendar"
+    },
+    {
+      "key": "/admin/notices",
+      "route": "notices",
+      "value": "通知管理",
+      "icon": "info-circle-o"
+    },
+    {
+      "key": "/admin/guide",
+      "value": "用户手册",
+      "icon": "eye-o"
+    },
+    {
+      "key": "/admin/password",
+      "value": "修改密码",
+      "icon": "lock"
+    }
+  ]
+}

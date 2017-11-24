@@ -1,0 +1,48 @@
+{
+  "title": "新闻中心",
+  "subTitle": "新闻中心为您提供最新最全的电子设计竞赛赛况",
+  "showItems": [
+    {
+      "title": "第一条新闻",
+      "content": "这里是新闻简介这里是新闻简介这里是新闻简介这里是新闻简介",
+      "img": "/assets/home/showItem/1.jpg",
+      "id": "1"
+    },
+    {
+      "title": "第一条新闻",
+      "content": "这里是新闻简介这里是新闻简介这里是新闻简介这里是新闻简介",
+      "img": "/assets/home/showItem/2.png",
+      "id": "2"
+    },
+    {
+      "title": "第一条新闻",
+      "content": "这里是新闻简介这里是新闻简介这里是新闻简介这里是新闻简介",
+      "img": "/assets/home/showItem/3.png",
+      "id": "3"
+    },
+    {
+      "title": "第一条新闻",
+      "content": "这里是新闻简介这里是新闻简介这里是新闻简介这里是新闻简介",
+      "img": "/assets/home/showItem/2.png",
+      "id": "3"
+    },
+    {
+      "title": "第一条新闻",
+      "content": "这里是新闻简介这里是新闻简介这里是新闻简介这里是新闻简介",
+      "img": "/assets/home/showItem/3.png",
+      "id": "3"
+    },
+    {
+      "title": "第一条新闻",
+      "content": "这里是新闻简介这里是新闻简介这里是新闻简介这里是新闻简介",
+      "img": "/assets/home/showItem/2.png",
+      "id": "3"
+    },
+    {
+      "title": "第一条新闻",
+      "content": "这里是新闻简介这里是新闻简介这里是新闻简介这里是新闻简介",
+      "img": "/assets/home/showItem/3.png",
+      "id": "3"
+    }
+  ]
+}

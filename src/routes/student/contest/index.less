@@ -1,0 +1,44 @@
+.contest {
+  padding-bottom: 10px;
+  .school-admin-table {
+
+  }
+  .contest-card-title {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  @media (max-width: 1080px) {
+    .contest-card-title {
+      width: 190px;
+    }
+  }
+  @media (max-width: 768px) {
+    .contest-card-title {
+      width: auto;
+    }
+  }
+  &-header {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .expanded-row {
+    display: flex;
+    justify-content: flex-start;
+  }
+  .contest-item {
+    margin-bottom: 20px;
+    &-title {
+      font-size: 24px;
+
+    }
+    &-content {
+      height: 100px;
+    }
+    &-footer {
+      padding-top: 10px;
+      border-top: 1px solid #f4f4f4;
+    }
+  }
+}
